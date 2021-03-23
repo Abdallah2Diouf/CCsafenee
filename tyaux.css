@@ -1,0 +1,137 @@
+.casse{
+    height:90%;
+    width:100%;
+	display:flex;
+}
+.casse .casse-content .text-1{
+
+	font-size: 100px;
+	font-weight:800px
+}
+ .casse .casse-content .text-3{
+        font-size: 50px;
+        font-weight: 300;
+    
+ }
+ .casse .casse-content .text-3 span{
+        color:rgb(146, 9, 36);
+ }
+.casse .casse-content .button-one{
+	display: inline-block;
+	background-color:  rgb(11, 11, 48);
+	font-size: 20px;
+	font-weight: 200;
+	color: white;
+	border: 2px solid  rgb(11, 11, 48);
+	border-radius: 10px;
+	padding: 25px 40px;
+	margin-top: 70px;
+}
+.casse .casse-content .button-one:hover{
+	background: crimson;
+}
+.diouf{
+	height: 385px;
+	width: 355px;
+	object-fit: cover;
+	display: inline-block;
+	padding: 25px;
+	border-radius: 55px;
+}
+/*****************************************************************************/
+.otil{
+    padding: 50px 150px;
+    max-width: 40
+}
+.title{
+	font-size: 40px;
+	font-weight: 500;
+	text-align: center;
+	text-decoration: underline  rgb(146, 9, 36);
+	padding-bottom: 80px;
+    margin: 45px;
+}
+    .otil .outil2.title{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    
+    }
+
+    .outil1{
+        padding: 20;
+        max-width: 40}
+        .matos{
+            height: 55%;
+            width: 25%;
+            margin-top: -1px;
+        }
+        .matos:hover{
+            background: crimson;
+        }
+        .otil .outil1-content .matos{
+            display: inline-block;
+            background-color:  rgb(11, 11, 48);
+            font-size: 20px;
+            font-weight: 200;
+            color: white;
+            border: 2px solid  rgb(11, 11, 48);
+            border-radius: 10px;
+            padding: 25px 40px;
+            margin-top: 70px;
+        }
+        .dh{ 
+            height: 40%;
+            width: 100px;
+            border-radius : 25px;
+        }	
+        .hd{height:225px;
+            width:225px ;
+            border: 2px;
+            margin-top:-80px;
+            border-radius :15px;
+        }
+        .tr{height: 95px;
+            width: 175px;
+            border-radius: 5px;
+            color:white ;
+            background-color: rgb(11, 11, 48) ;
+        }
+/**********************************************************************************/        
+.imag{
+	padding: 20;
+	max-width: 40}
+.dh{ 
+	height: 300px;
+	width: 100px;
+	border-radius : 25px;
+}	
+.hd{
+	height:255px;
+	width:225px ;
+	border: 2px;
+}
+.tr{
+	border-radius: 2px;
+	color:white ;
+	background-color:rgb(11, 11, 48) ;
+}
+/********************************************************************/
+.mlo{
+	color: white;
+    height: 75%;
+	width:100%;
+	background-color: rgb(11, 11, 48);
+	margin: 65px;
+	border: 35px;
+
+
+}
+.logoo2{
+    height:95px;
+	width:100px ;
+	border:2px;
+    border-radius:225px;
+	margin-top:-60px ;
+
+}
